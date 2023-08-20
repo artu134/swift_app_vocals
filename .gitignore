@@ -6,3 +6,5 @@
 /.sudo_as_admin_successful
 /.vscode-server
 /swift-5.8.1-RELEASE-ubuntu20.04.tar.gz
+
+*.history 
