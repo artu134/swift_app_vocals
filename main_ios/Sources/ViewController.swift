@@ -1,5 +1,6 @@
 import UIKit
 import AVFoundation
+import SegmentationService.SegmentationService
 
 class ViewController: UIViewController, AVCaptureVideoDataOutputSampleBufferDelegate, UIPickerViewDataSource, UIPickerViewDelegate {
 
